@@ -1,0 +1,14 @@
+.App {
+ margin:auto auto auto auto;
+
+}
+
+@media screen and (min-width: 570px) {
+  .App {
+    margin-left: 30%;
+    margin-right:30%;
+    margin-top:1%;
+    
+    }
+
+}
